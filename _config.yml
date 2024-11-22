@@ -18,7 +18,7 @@ timezone: "Asia/Shanghai"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: cola's blog # the main title
+title: Isaac's blog # the main title
 
 tagline: To strive, to seek, to find, and not to yield. # it will display as the sub-title
 
@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://cola-coding.github.io"
+url: "https://IsaacjlWu.github.io"
 
 github:
-  username: cola-coding # change to your github username
+  username: IsaacjlWu # change to your github username
 
 twitter:
   username: none # change to your twitter username
@@ -37,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Cola Liu
-  email: colaliuu@gmail.com # change to your email address
+  name: Isaac Wu
+  email: 490876290@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    # - https://github.com/cola-coding # change to your github homepage
+    # - https://github.com/IsaacjlWu # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
