@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hi, this is my English blog!"
-date: 2030-01-01
+date: 2024-11-20
 author: "Cola Liu"
 categories: [Home]
 usemathjax: true
