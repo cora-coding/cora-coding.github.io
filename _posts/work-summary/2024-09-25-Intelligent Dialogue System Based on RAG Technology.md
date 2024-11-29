@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Intelligent Dialogue System Based on RAG Technology: Innovative Practice in Personalized Education"
+title: "Intelligent Dialogue System Based on RAG Technology"
 date: 2024-09-25
 author: "Cola Liu"
 categories: [Work Summary]
