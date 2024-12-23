@@ -2,7 +2,7 @@
 layout: post
 title: "PyTorch Model Design"
 date: 2023-03-12
-author: Cola Liu
+author: cora Liu
 categories: [Programming, PyTorch]
 ---
 

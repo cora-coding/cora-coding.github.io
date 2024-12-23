@@ -2,7 +2,7 @@
 layout: post
 title: "Intelligent Dialogue System Based on RAG Technology"
 date: 2024-09-25
-author: "Cola Liu"
+author: "cora Liu"
 categories: [Work Summary]
 pin: true
 ---
@@ -31,7 +31,7 @@ The implementation of `RAG` in `LangChain` is shown below: ⬇️
 
 <img src="/assets/imgs/ai/langchain/langchain-rag.png" width="250"/>
 
-For more details, please visit [Detailed Introduction to LangChain-RAG](https://colamini.github.io/posts/LangChain%E6%96%87%E6%9C%AC%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA-RAG/).
+For more details, please visit [Detailed Introduction to LangChain-RAG](https://coramini.github.io/posts/LangChain%E6%96%87%E6%9C%AC%E6%A3%80%E7%B4%A2%E5%A2%9E%E5%BC%BA-RAG/).
 
   - **Agent**: Enables the system to make decisions and dynamically coordinate tasks based on students' needs, offering tailored learning paths.
 
@@ -104,7 +104,7 @@ By integrating **THG technology** with LLMs, the system generates realistic faci
 
 <img src="/assets/imgs/ai/work-summary/THG.png" />
 
-Watch the generated video [👉 Click Here](https://colamini.github.io/assets/imgs/ai/work-summary/full4_answer.mp4).
+Watch the generated video [👉 Click Here](https://coramini.github.io/assets/imgs/ai/work-summary/full4_answer.mp4).
 
 ### 8. **Conclusion and Future Outlook**
 - **Multimodal Interaction**: By integrating speech, image, and text inputs and outputs, the system provides a richer interactive experience. For instance, students can ask questions via voice, and the system can respond with voice and visual aids like charts or videos.

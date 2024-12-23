@@ -2,7 +2,7 @@
 layout: post  
 title: "Detailed Explanation of Promise Implementation"  
 date: 2024-11-24  
-author: Cola Liu  
+author: cora Liu  
 categories: [Frontend]  
 ---
 
